@@ -4,15 +4,15 @@
     "type": 2,
     "flags": 0,
     "game_profile": "FC27",
-    "updated_at": "2026-10-01T16:50:12.526634Z",
-    "revision": 3,
+    "updated_at": "2026-10-21T07:46:02.064497Z",
+    "revision": 4,
     "standard_content_meta": {
-      "items_count": 3,
-      "content_version": "1189",
-      "content_date_version": "2026-09-29T00:00:00Z",
-      "total_uncompressed_size": 32356716,
-      "total_compressed_size": 11040065,
-      "total_caches_size": 4770746,
+      "items_count": 4,
+      "content_version": "1190",
+      "content_date_version": "2026-10-06T00:00:00Z",
+      "total_uncompressed_size": 43154000,
+      "total_compressed_size": 14841771,
+      "total_caches_size": 4930394,
       "featured": []
     },
     "fut_content_meta": {
@@ -26,6 +26,29 @@
     }
   },
   "standard_squads": [
+    {
+      "name": "Squads20261006",
+      "db_version": 1190,
+      "status": 2,
+      "export_date": 162160,
+      "build_date": "2026-10-06T00:00:00Z",
+      "released_at": "2026-10-06T21:03:40Z",
+      "released_on_tu": "",
+      "uncompressed_size": 10797284,
+      "compressed_size": 3801706,
+      "caches_size": 159648,
+      "type": 1,
+      "release_type": 8,
+      "build_type": 1,
+      "release_attributes_flags": 0,
+      "flags": 1,
+      "db_flags": 1096282084,
+      "caches_flags": 1,
+      "db_schema": "b41ea02452b29b3722aea0addd0cfb7c107a6e07",
+      "checksum_hash": "0b262fd51981eea7",
+      "checksum_type": 1,
+      "note": null
+    },
     {
       "name": "Squads20260929",
       "db_version": 1189,
