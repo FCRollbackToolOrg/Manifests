@@ -1,0 +1,20 @@
+{
+  "header": {
+    "version": 1,
+    "type": 3,
+    "flags": 0,
+    "game_profile": "FC27",
+    "updated_at": "2026-09-28T12:58:51.403084Z",
+    "revision": 1,
+    "content_meta": {
+      "items_count": 0,
+      "content_version": "",
+      "content_date_version": null,
+      "total_uncompressed_size": 0,
+      "total_compressed_size": 0,
+      "total_caches_size": 0,
+      "featured": []
+    }
+  },
+  "items": []
+}

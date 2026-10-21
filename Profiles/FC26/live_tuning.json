@@ -1,0 +1,43 @@
+{
+  "header": {
+    "version": 1,
+    "type": 3,
+    "flags": 0,
+    "game_profile": "FC26",
+    "updated_at": "2026-09-28T12:58:51.401340Z",
+    "revision": 1,
+    "content_meta": {
+      "items_count": 2,
+      "content_version": "2",
+      "content_date_version": "2025-10-29T22:48:10.532000Z",
+      "total_uncompressed_size": 0,
+      "total_compressed_size": 0,
+      "total_caches_size": 4888,
+      "featured": []
+    }
+  },
+  "items": [
+    {
+      "name": "Live Tuning Update #2",
+      "version": 2,
+      "released_at": "2025-10-29T22:48:10.532000Z",
+      "announced_at": "2025-10-29T22:48:10.532Z",
+      "released_on_tu": "1.1.2",
+      "caches_size": 2409,
+      "caches_flags": 1,
+      "patch_notes_cid": "7mMyNrXN",
+      "note": null
+    },
+    {
+      "name": "Live Tuning Update #1",
+      "version": 1,
+      "released_at": "2025-10-24T00:13:49.455000Z",
+      "announced_at": "2025-10-24T00:13:49.455Z",
+      "released_on_tu": "1.1.0",
+      "caches_size": 2479,
+      "caches_flags": 1,
+      "patch_notes_cid": "WRD2PJEa",
+      "note": null
+    }
+  ]
+}
