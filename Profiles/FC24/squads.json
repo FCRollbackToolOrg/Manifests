@@ -29,7 +29,7 @@
     {
       "name": "Squads20240903",
       "db_version": 336,
-      "status": 2,
+      "status": 3,
       "export_date": 161397,
       "build_date": "2024-09-03T00:00:00Z",
       "released_at": "2024-09-04T00:00:00Z",
@@ -52,7 +52,7 @@
     {
       "name": "Squads20240820",
       "db_version": 335,
-      "status": 2,
+      "status": 3,
       "export_date": 161383,
       "build_date": "2024-08-20T00:00:00Z",
       "released_at": "2024-08-20T00:00:00Z",
@@ -75,7 +75,7 @@
     {
       "name": "Squads20240722",
       "db_version": 334,
-      "status": 2,
+      "status": 3,
       "export_date": 161334,
       "build_date": "2024-07-22T00:00:00Z",
       "released_at": "2024-07-24T00:00:00Z",
@@ -98,7 +98,7 @@
     {
       "name": "Squads20240704",
       "db_version": 333,
-      "status": 2,
+      "status": 3,
       "export_date": 161334,
       "build_date": "2024-07-04T00:00:00Z",
       "released_at": "2024-07-08T00:00:00Z",
@@ -121,7 +121,7 @@
     {
       "name": "Squads20240627",
       "db_version": 332,
-      "status": 2,
+      "status": 3,
       "export_date": 161327,
       "build_date": "2024-06-27T00:00:00Z",
       "released_at": "2024-07-04T00:00:00Z",
@@ -144,7 +144,7 @@
     {
       "name": "Squads20240626",
       "db_version": 331,
-      "status": 2,
+      "status": 3,
       "export_date": 161327,
       "build_date": "2024-06-26T00:00:00Z",
       "released_at": "2024-06-26T00:00:00Z",
@@ -167,7 +167,7 @@
     {
       "name": "Squads20240614",
       "db_version": 330,
-      "status": 2,
+      "status": 3,
       "export_date": 161308,
       "build_date": "2024-06-14T00:00:00Z",
       "released_at": "2024-06-26T00:00:00Z",
@@ -190,7 +190,7 @@
     {
       "name": "Squads20240611",
       "db_version": 329,
-      "status": 2,
+      "status": 3,
       "export_date": 161308,
       "build_date": "2024-06-11T00:00:00Z",
       "released_at": "2024-06-12T00:00:00Z",
@@ -213,7 +213,7 @@
     {
       "name": "Squads20240604",
       "db_version": 328,
-      "status": 2,
+      "status": 3,
       "export_date": 161293,
       "build_date": "2024-06-04T00:00:00Z",
       "released_at": "2024-06-11T00:00:00Z",
@@ -236,7 +236,7 @@
     {
       "name": "Squads20240522",
       "db_version": 327,
-      "status": 2,
+      "status": 3,
       "export_date": 161293,
       "build_date": "2024-05-22T00:00:00Z",
       "released_at": "2024-05-22T00:00:00Z",
@@ -259,7 +259,7 @@
     {
       "name": "Squads20240507",
       "db_version": 326,
-      "status": 2,
+      "status": 3,
       "export_date": 161278,
       "build_date": "2024-05-07T00:00:00Z",
       "released_at": "2024-05-08T00:00:00Z",
@@ -282,7 +282,7 @@
     {
       "name": "Squads20240429",
       "db_version": 325,
-      "status": 2,
+      "status": 3,
       "export_date": 161264,
       "build_date": "2024-04-29T00:00:00Z",
       "released_at": "2024-05-07T00:00:00Z",
@@ -305,7 +305,7 @@
     {
       "name": "Squads20240423",
       "db_version": 324,
-      "status": 2,
+      "status": 3,
       "export_date": 161264,
       "build_date": "2024-04-23T00:00:00Z",
       "released_at": "2024-04-23T00:00:00Z",
@@ -328,7 +328,7 @@
     {
       "name": "Squads20240416",
       "db_version": 323,
-      "status": 2,
+      "status": 3,
       "export_date": 161250,
       "build_date": "2024-04-16T00:00:00Z",
       "released_at": "2024-04-23T00:00:00Z",
@@ -351,7 +351,7 @@
     {
       "name": "Squads20240409",
       "db_version": 322,
-      "status": 2,
+      "status": 3,
       "export_date": 161250,
       "build_date": "2024-04-09T00:00:00Z",
       "released_at": "2024-04-09T00:00:00Z",
@@ -374,7 +374,7 @@
     {
       "name": "Squads20240404",
       "db_version": 321,
-      "status": 2,
+      "status": 3,
       "export_date": 161236,
       "build_date": "2024-04-04T00:00:00Z",
       "released_at": "2024-04-09T00:00:00Z",
@@ -397,7 +397,7 @@
     {
       "name": "Squads20240326",
       "db_version": 320,
-      "status": 2,
+      "status": 3,
       "export_date": 161236,
       "build_date": "2024-03-26T00:00:00Z",
       "released_at": "2024-03-27T00:00:00Z",
@@ -420,7 +420,7 @@
     {
       "name": "Squads20240319",
       "db_version": 319,
-      "status": 2,
+      "status": 3,
       "export_date": 161229,
       "build_date": "2024-03-19T00:00:00Z",
       "released_at": "2024-03-20T00:00:00Z",
@@ -443,7 +443,7 @@
     {
       "name": "Squads20240308",
       "db_version": 318,
-      "status": 2,
+      "status": 3,
       "export_date": 161217,
       "build_date": "2024-03-08T00:00:00Z",
       "released_at": "2024-03-14T00:00:00Z",
@@ -466,7 +466,7 @@
     {
       "name": "Squads20240307",
       "db_version": 317,
-      "status": 2,
+      "status": 3,
       "export_date": 161217,
       "build_date": "2024-03-07T00:00:00Z",
       "released_at": "2024-03-07T00:00:00Z",
@@ -489,7 +489,7 @@
     {
       "name": "Squads20240305",
       "db_version": 316,
-      "status": 2,
+      "status": 3,
       "export_date": 161215,
       "build_date": "2024-03-05T00:00:00Z",
       "released_at": "2024-03-06T00:00:00Z",
@@ -512,7 +512,7 @@
     {
       "name": "Squads20240301",
       "db_version": 315,
-      "status": 2,
+      "status": 3,
       "export_date": 161203,
       "build_date": "2024-03-01T00:00:00Z",
       "released_at": "2024-03-05T00:00:00Z",
@@ -535,7 +535,7 @@
     {
       "name": "Squads20240222",
       "db_version": 314,
-      "status": 2,
+      "status": 3,
       "export_date": 161203,
       "build_date": "2024-02-22T00:00:00Z",
       "released_at": "2024-02-22T00:00:00Z",
@@ -558,7 +558,7 @@
     {
       "name": "Squads20240215",
       "db_version": 313,
-      "status": 2,
+      "status": 3,
       "export_date": 161193,
       "build_date": "2024-02-15T00:00:00Z",
       "released_at": "2024-02-15T00:00:00Z",
@@ -581,7 +581,7 @@
     {
       "name": "Squads20240208",
       "db_version": 312,
-      "status": 2,
+      "status": 3,
       "export_date": 161188,
       "build_date": "2024-02-08T00:00:00Z",
       "released_at": "2024-02-15T00:00:00Z",
@@ -604,7 +604,7 @@
     {
       "name": "Squads20240207",
       "db_version": 311,
-      "status": 2,
+      "status": 3,
       "export_date": 161188,
       "build_date": "2024-02-07T00:00:00Z",
       "released_at": "2024-02-08T00:00:00Z",
@@ -627,7 +627,7 @@
     {
       "name": "Squads20240130",
       "db_version": 310,
-      "status": 2,
+      "status": 3,
       "export_date": 161179,
       "build_date": "2024-01-30T00:00:00Z",
       "released_at": "2024-01-31T00:00:00Z",
@@ -650,7 +650,7 @@
     {
       "name": "Squads20240126.308",
       "db_version": 309,
-      "status": 2,
+      "status": 3,
       "export_date": 161166,
       "build_date": "2024-01-26T00:00:00Z",
       "released_at": "2024-01-30T00:00:00Z",
@@ -673,7 +673,7 @@
     {
       "name": "Squads20240126",
       "db_version": 308,
-      "status": 2,
+      "status": 3,
       "export_date": 161166,
       "build_date": "2024-01-26T00:00:00Z",
       "released_at": "2024-02-01T00:00:00Z",
@@ -696,7 +696,7 @@
     {
       "name": "Squads20240117",
       "db_version": 307,
-      "status": 2,
+      "status": 3,
       "export_date": 161166,
       "build_date": "2024-01-17T00:00:00Z",
       "released_at": "2024-01-17T00:00:00Z",
@@ -719,7 +719,7 @@
     {
       "name": "Squads20240103",
       "db_version": 306,
-      "status": 2,
+      "status": 3,
       "export_date": 161133,
       "build_date": "2024-01-03T00:00:00Z",
       "released_at": "2024-01-17T00:00:00Z",
@@ -742,7 +742,7 @@
     {
       "name": "Squads20231214",
       "db_version": 305,
-      "status": 2,
+      "status": 3,
       "export_date": 161133,
       "build_date": "2023-12-14T00:00:00Z",
       "released_at": "2023-12-18T00:00:00Z",
@@ -765,7 +765,7 @@
     {
       "name": "Squads20231211",
       "db_version": 304,
-      "status": 2,
+      "status": 3,
       "export_date": 161130,
       "build_date": "2023-12-11T00:00:00Z",
       "released_at": "2023-12-11T00:00:00Z",
@@ -788,7 +788,7 @@
     {
       "name": "Squads20231205",
       "db_version": 303,
-      "status": 2,
+      "status": 3,
       "export_date": 161124,
       "build_date": "2023-12-05T00:00:00Z",
       "released_at": "2023-12-06T00:00:00Z",
@@ -811,7 +811,7 @@
     {
       "name": "Squads20231123",
       "db_version": 302,
-      "status": 2,
+      "status": 3,
       "export_date": 161112,
       "build_date": "2023-11-23T00:00:00Z",
       "released_at": "2023-11-24T00:00:00Z",
@@ -834,7 +834,7 @@
     {
       "name": "Squads20231120",
       "db_version": 301,
-      "status": 2,
+      "status": 3,
       "export_date": 161109,
       "build_date": "2023-11-20T00:00:00Z",
       "released_at": "2023-11-20T00:00:00Z",
@@ -857,7 +857,7 @@
     {
       "name": "Squads20231114",
       "db_version": 300,
-      "status": 2,
+      "status": 3,
       "export_date": 161103,
       "build_date": "2023-11-14T00:00:00Z",
       "released_at": "2023-11-15T00:00:00Z",
@@ -880,7 +880,7 @@
     {
       "name": "Squads20231108",
       "db_version": 299,
-      "status": 2,
+      "status": 3,
       "export_date": 161097,
       "build_date": "2023-11-08T00:00:00Z",
       "released_at": "2023-11-09T00:00:00Z",
@@ -903,7 +903,7 @@
     {
       "name": "Squads20231101",
       "db_version": 298,
-      "status": 2,
+      "status": 3,
       "export_date": 161088,
       "build_date": "2023-11-01T00:00:00Z",
       "released_at": "2023-11-01T00:00:00Z",
@@ -926,7 +926,7 @@
     {
       "name": "Squads20231030",
       "db_version": 297,
-      "status": 2,
+      "status": 3,
       "export_date": 161088,
       "build_date": "2023-10-30T00:00:00Z",
       "released_at": "2023-10-30T00:00:00Z",
@@ -949,7 +949,7 @@
     {
       "name": "Squads20231025",
       "db_version": 296,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2023-10-25T00:00:00Z",
       "released_at": "2023-10-26T00:00:00Z",
@@ -972,7 +972,7 @@
     {
       "name": "Squads20231023",
       "db_version": 295,
-      "status": 2,
+      "status": 3,
       "export_date": 161081,
       "build_date": "2023-10-23T00:00:00Z",
       "released_at": "2023-10-23T00:00:00Z",
@@ -995,7 +995,7 @@
     {
       "name": "Squads20231016",
       "db_version": 294,
-      "status": 2,
+      "status": 3,
       "export_date": 161074,
       "build_date": "2023-10-16T00:00:00Z",
       "released_at": "2023-10-16T00:00:00Z",
@@ -1018,7 +1018,7 @@
     {
       "name": "Squads20231012",
       "db_version": 293,
-      "status": 2,
+      "status": 3,
       "export_date": 161070,
       "build_date": "2023-10-12T00:00:00Z",
       "released_at": "2023-10-12T00:00:00Z",
@@ -1041,7 +1041,7 @@
     {
       "name": "Squads20231010",
       "db_version": 292,
-      "status": 2,
+      "status": 3,
       "export_date": 161068,
       "build_date": "2023-10-10T00:00:00Z",
       "released_at": "2023-10-10T00:00:00Z",
@@ -1064,7 +1064,7 @@
     {
       "name": "Squads20231005",
       "db_version": 291,
-      "status": 2,
+      "status": 3,
       "export_date": 161063,
       "build_date": "2023-10-05T00:00:00Z",
       "released_at": "2023-10-05T00:00:00Z",
@@ -1089,7 +1089,7 @@
     {
       "name": "FutSquads20240722",
       "db_version": 55,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-07-22T00:00:00Z",
       "released_at": "2024-07-24T00:00:00Z",
@@ -1112,7 +1112,7 @@
     {
       "name": "FutSquads20240627",
       "db_version": 54,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-06-27T00:00:00Z",
       "released_at": "2024-07-04T00:00:00Z",
@@ -1135,7 +1135,7 @@
     {
       "name": "FutSquads20240614",
       "db_version": 53,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-06-14T00:00:00Z",
       "released_at": "2024-06-26T00:00:00Z",
@@ -1158,7 +1158,7 @@
     {
       "name": "FutSquads20240604",
       "db_version": 52,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-06-04T00:00:00Z",
       "released_at": "2024-06-11T00:00:00Z",
@@ -1181,7 +1181,7 @@
     {
       "name": "FutSquads20240429",
       "db_version": 51,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-04-29T00:00:00Z",
       "released_at": "2024-05-07T00:00:00Z",
@@ -1204,7 +1204,7 @@
     {
       "name": "FutSquads20240416",
       "db_version": 50,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-04-16T00:00:00Z",
       "released_at": "2024-04-23T00:00:00Z",
@@ -1227,7 +1227,7 @@
     {
       "name": "FutSquads20240404",
       "db_version": 49,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-04-04T00:00:00Z",
       "released_at": "2024-04-09T00:00:00Z",
@@ -1250,7 +1250,7 @@
     {
       "name": "FutSquads20240308",
       "db_version": 48,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-03-08T00:00:00Z",
       "released_at": "2024-03-14T00:00:00Z",
@@ -1273,7 +1273,7 @@
     {
       "name": "FutSquads20240301",
       "db_version": 47,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-03-01T00:00:00Z",
       "released_at": "2024-03-05T00:00:00Z",
@@ -1296,7 +1296,7 @@
     {
       "name": "FutSquads20240208",
       "db_version": 46,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-02-08T00:00:00Z",
       "released_at": "2024-02-15T00:00:00Z",
@@ -1319,7 +1319,7 @@
     {
       "name": "FutSquads20240126",
       "db_version": 45,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-01-26T00:00:00Z",
       "released_at": "2024-01-30T00:00:00Z",
@@ -1342,7 +1342,7 @@
     {
       "name": "FutSquads20240103",
       "db_version": 44,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2024-01-03T00:00:00Z",
       "released_at": "2024-01-17T00:00:00Z",
@@ -1365,7 +1365,7 @@
     {
       "name": "FutSquads20231128",
       "db_version": 43,
-      "status": 2,
+      "status": 3,
       "export_date": 161083,
       "build_date": "2023-11-28T00:00:00Z",
       "released_at": "2023-12-06T00:00:00Z",
@@ -1388,7 +1388,7 @@
     {
       "name": "FutSquads20231114",
       "db_version": 42,
-      "status": 2,
+      "status": 3,
       "export_date": 161029,
       "build_date": "2023-11-14T00:00:00Z",
       "released_at": "2023-11-15T00:00:00Z",
@@ -1411,7 +1411,7 @@
     {
       "name": "FutSquads20231101",
       "db_version": 41,
-      "status": 2,
+      "status": 3,
       "export_date": 161029,
       "build_date": "2023-11-01T00:00:00Z",
       "released_at": "2023-11-01T00:00:00Z",
@@ -1434,7 +1434,7 @@
     {
       "name": "FutSquads20231017",
       "db_version": 40,
-      "status": 2,
+      "status": 3,
       "export_date": 161029,
       "build_date": "2023-10-17T00:00:00Z",
       "released_at": "2023-10-17T00:00:00Z",
